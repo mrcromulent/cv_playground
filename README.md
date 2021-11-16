@@ -14,7 +14,7 @@
 
 |K = 4|K = 6|K = 8|
 |-|-|-|
-|![K = 4](figs/2_3_2_k=4_UseXY.png)|![K = 6](figs/2_3_2_k=6_UseXY.png)|![K = 8](figs/2_3_2_k=8_UseXY.png)|
+|![K = 4](figs/2_3_2_k=4_kmpp.png)|![K = 6](figs/2_3_2_k=6_kmpp.png)|![K = 8](figs/2_3_2_k=8_kmpp.png)|
 
 ## Face recognition with Piecewise Component Analysis (PCA)
 
@@ -31,4 +31,5 @@
 ||![](figs/3_4_sub=7_matches.png)|
 ||![](figs/3_4_sub=8_matches.png)|
 ||![](figs/3_4_sub=9_matches.png)|
-||![](figs/3_4_sub=11_matches.png)|
+||![](figs/3_5_sub=11_matches.png)|
+||![](figs/3_6_sub=11_matches.png)|
