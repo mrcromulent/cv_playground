@@ -32,3 +32,7 @@
 ||![](figs/3_4_sub=8_matches.png)|
 ||![](figs/3_4_sub=9_matches.png)|
 ||![](figs/3_4_sub=11_matches.png)|
+
+## Homography
+
+![](figs/homography.png)
